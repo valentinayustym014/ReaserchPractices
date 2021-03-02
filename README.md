@@ -1,3 +1,3 @@
 # Reaserch Practices
 
-In the following repository I attach two of the reaserch practices I worked in 2020. One of them is called "
+In the following repository I attach two of the reaserch practices I worked in 2020. One of them is called "Supervised Statistical Methods to Identify Credit Acceptance Rate" as its respective document is found in: "ReasearchPracticeML.pdf". The code used to clean the data set is called "CleaningBD.py" and the implementation of the Random Forest Algorithm, on the clean data set, can be found in "RandomForestImp.py". I also attached the implementation of a Hybrid Evolutionary algorithm in a document called "HEACode.py" and the respective document is called "ReaserchPracticeHEA.pdf". 
